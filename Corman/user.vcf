@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Yap Fun;Foo;;;
-FN: Yap  Fun 
-ORG:Blossom Seeds Limited;
-TITLE:Volunteer Manager
+N:Corman;Tan;;;
+FN: Corman  Tan 
+ORG:SG Cares Volunteer Centre;
+TITLE:Senior Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:blossomseeds.sg
-TEL;type=WORK;type=VOICE:+65 9232 3896
+TEL;type=WORK;type=VOICE:+65 9817 0620
 item1.ADR;type=WORK;type=pref:;;105 Canberra St\, 02-01;;;750105;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:blossomseeds.sg
